@@ -11,8 +11,8 @@ The project focuses on enhancing the **user journey** and ensuring a seamless, e
 
  ## 📌 Preview  
 You can view the design 
- **Mockflow****[here](https://app.mockflow.com/view/M6igCdTG6rb)**
- **Figma** [here]([[https://www.figma.com/design/dZ8mhRhvUmpFs53UjgD6Jb/Final-progect?node-id=0-1&t=QpnhaW4c0mWgtJsF-1])
+ **Mockflow** **[here](https://app.mockflow.com/view/M6igCdTG6rb)**
+ **Figma** **[here]([https://www.figma.com/design/dZ8mhRhvUmpFs53UjgD6Jb/Final-progect?node-id=0-1&t=QpnhaW4c0mWgtJsF-1)**
  ## 💬 Feedback  
 I’d love to hear your thoughts on this UX design! You can:  
 1. **Open a GitHub Issue** to share your feedback privately (if the repo is private).
